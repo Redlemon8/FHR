@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const title = document.getElementById('title');
     const bannerVideo = document.getElementById('banner-video');
-    const startTime = 20;
+    const startTime = 12;
     const duration = 5;
 
     const adjustOpacity = () => {
@@ -18,3 +18,5 @@ document.addEventListener('DOMContentLoaded', () => {
         title.style.display = 'none';
     });
 });
+
+

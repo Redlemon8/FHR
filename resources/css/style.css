@@ -38,11 +38,30 @@
     color: white;
 }
 
-.text {
-    margin-top: 2rem;
+.container {
+    width: 100%;
 }
 
-.text  h2 {
-    font-size: 1.5rem;
+.text {
     text-align: center;
+}
+
+.text h2 {
+    font-size: 3rem;
+    padding: 2rem 4rem;
+}
+
+#hearth-video {
+    width: 95%;
+}
+
+.video {
+    margin: 2rem;
+}
+
+#play-button {
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: slateblue;
+    color: white;
 }
